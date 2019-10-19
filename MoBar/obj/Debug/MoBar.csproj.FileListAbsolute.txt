@@ -1,0 +1,8 @@
+g:\programy\visual studio repo\MoBarDemo\MoBar\bin\Debug\MoBar.dll
+g:\programy\visual studio repo\MoBarDemo\MoBar\bin\Debug\MoBar.pdb
+g:\programy\visual studio repo\MoBarDemo\MoBar\obj\Debug\MoBar.csproj.CoreCompileInputs.cache
+g:\programy\visual studio repo\MoBarDemo\MoBar\obj\Debug\MoBar.dll
+g:\programy\visual studio repo\MoBarDemo\MoBar\obj\Debug\MoBar.pdb
+g:\Programy\Visual Studio repo\MoBarDemo\MoBar\obj\Debug\MoBar.UserControl1.resources
+g:\Programy\Visual Studio repo\MoBarDemo\MoBar\obj\Debug\MoBar.csproj.GenerateResource.Cache
+g:\Programy\Visual Studio repo\MoBarDemo\MoBar\obj\Debug\MoBar.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+g:\programy\visual studio repo\MoBarDemo\MoBarDemo\bin\Debug\MoBarDemo.exe.config
+g:\programy\visual studio repo\MoBarDemo\MoBarDemo\bin\Debug\MoBarDemo.exe
+g:\programy\visual studio repo\MoBarDemo\MoBarDemo\bin\Debug\MoBarDemo.pdb
+g:\programy\visual studio repo\MoBarDemo\MoBarDemo\bin\Debug\MoBar.dll
+g:\programy\visual studio repo\MoBarDemo\MoBarDemo\bin\Debug\MoBar.pdb
+g:\programy\visual studio repo\MoBarDemo\MoBarDemo\obj\Debug\MoBarDemo.csprojResolveAssemblyReference.cache
+g:\programy\visual studio repo\MoBarDemo\MoBarDemo\obj\Debug\MoBarDemo.Form1.resources
+g:\programy\visual studio repo\MoBarDemo\MoBarDemo\obj\Debug\MoBarDemo.Properties.Resources.resources
+g:\programy\visual studio repo\MoBarDemo\MoBarDemo\obj\Debug\MoBarDemo.csproj.GenerateResource.Cache
+g:\programy\visual studio repo\MoBarDemo\MoBarDemo\obj\Debug\MoBarDemo.csproj.CoreCompileInputs.cache
+g:\programy\visual studio repo\MoBarDemo\MoBarDemo\obj\Debug\MoBarDemo.exe
+g:\programy\visual studio repo\MoBarDemo\MoBarDemo\obj\Debug\MoBarDemo.pdb
